@@ -1,8 +1,8 @@
-<a href="https://github.com/siberiacancode">
+<a href="https://github.com/maks-pekur">
   <img src="" alt="my-github" align="center"/>
 </a>
 
-<h1 align="left">:wave: Hello there! I'm Maksym Pekur</h1>
+<h1 align="left">:wave: Hello, Welcome to my Github profile</h1>
 
 <br>
 
