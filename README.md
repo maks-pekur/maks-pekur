@@ -1,8 +1,9 @@
 <a href="https://github.com/maks-pekur">
-  <img src="" alt="my-github" align="center"/>
+  <img src="https://user-images.githubusercontent.com/95478989/198955082-6e78ebb5-e1e4-49f9-8d32-6e5af3984dcd.gif" alt="my-github" align="center"/>
 </a>
 
-<h1 align="left">:wave: Hello, Welcome to my Github profile</h1>
+<h1 align="center">:wave: Hello, Welcome to my Github profile</h1>
+<h1 align="center">I'm <a href="https://github.com/maks-pekur">Maks Pekur</a></h1>
 
 <br>
 
@@ -13,7 +14,7 @@ Fullstack Developer from Ukraine 🇺🇦
 
 <br>
 
-<h2 align="left" id="pekur-stack">🔥 Tech stack</h2>
+## 🎓Tools and Technologies:
 
 > General
 
@@ -120,7 +121,7 @@ Fullstack Developer from Ukraine 🇺🇦
   </tr> 
 </table>
 
-> Frontend
+> Frontend Development
 
 <table width='100%'>
   <tr>
