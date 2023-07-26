@@ -31,6 +31,12 @@ Fullstack Developer from Ukraine 🇺🇦
       </a>
       <br>Css3
     </td>
+     <td align="center" width="110" height="90">
+      <a href="#pekur-stack">
+        <img src="https://brandeps.com/icon-download/S/Sass-icon-vector-04.svg" width="36" height="36" alt="Sass" />
+      </a>
+      <br>Sass
+    </td>
     <td align="center" width="110" height="90">
       <a href="#pekur-stack">
         <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/javascript/javascript-original.svg" width="36" height="36" alt="javascript" />
@@ -50,6 +56,12 @@ Fullstack Developer from Ukraine 🇺🇦
       <br>git
     </td>
     <td align="center" width="110" height="90"> 
+      <a href="#pekur-stack" >
+        <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" width="36" height="36" alt="docker" />
+      </a>
+      <br>docker
+    </td>
+    <td align="center" width="110" height="90"> 
       <a href="#pekur-stack">
         <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/yarn/yarn-original.svg" width="36" height="36" alt="yarn" />
       </a>
@@ -66,12 +78,6 @@ Fullstack Developer from Ukraine 🇺🇦
         <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" width="36" height="36" alt="github" />
       </a>
       <br>github
-    </td>
-    <td align="center" width="110" height="90"> 
-      <a href="#pekur-stack" >
-        <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" width="36" height="36" alt="docker" />
-      </a>
-      <br>docker
     </td>
     <td align="center" width="110" height="90">
       <a href="#pekur-stack" >
@@ -148,6 +154,12 @@ Fullstack Developer from Ukraine 🇺🇦
       </a>
       <br>Bootstrap
     </td>
+     <td align="center" width="110" height="90">
+      <a href="#pekur-stack">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg" width="36" height="36" alt="Tailwind" />
+      </a>
+      <br>Tailwind
+    </td>
   </tr> 
     <tr>
     <td align="center" width="110" height="90"> 
@@ -162,18 +174,6 @@ Fullstack Developer from Ukraine 🇺🇦
       </a>
       <br>Vite
     </td> 
-    <td align="center" width="110" height="90">
-      <a href="#pekur-stack">
-        <img src="https://brandeps.com/icon-download/S/Sass-icon-vector-04.svg" width="36" height="36" alt="Sass" />
-      </a>
-      <br>Sass
-    </td>
-   <td align="center" width="110" height="90">
-      <a href="#pekur-stack">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg" width="36" height="36" alt="Tailwind" />
-      </a>
-      <br>Tailwind
-    </td>
   </tr> 
 </table>
 
@@ -196,15 +196,15 @@ Fullstack Developer from Ukraine 🇺🇦
   <tr>
     <td align="center" width="110" height="90"> 
       <a href="#pekur-stack" >
-        <img src="https://brandeps.com/icon-download/N/Nestjs-icon-vector-01.svg" width="36" height="36" alt="Nestjs" />
-      </a>
-      <br>Nest JS
-    </td>
-    <td align="center" width="110" height="90"> 
-      <a href="#pekur-stack" >
         <img src="https://brandeps.com/icon-download/N/Nodejs-icon-vector-02.svg" width="36" height="36" alt="Node JS" />
       </a>
       <br>Node JS
+    </td>
+    <td align="center" width="110" height="90"> 
+      <a href="#pekur-stack" >
+        <img src="https://brandeps.com/icon-download/N/Nestjs-icon-vector-01.svg" width="36" height="36" alt="Nestjs" />
+      </a>
+      <br>Nest JS
     </td>
     <td align="center" width="110" height="90">
       <a href="#pekur-stack" >
@@ -226,7 +226,7 @@ Fullstack Developer from Ukraine 🇺🇦
     </td>
       <td align="center" width="110" height="90"> 
       <a href="#pekur-stack" >
-        <img src="https://brandeps.com/icon-download/P/Prisma-icon-vector-01.svg" width="36" height="36" alt="Prisma" />
+        <img src="https://raw.githubusercontent.com/typeorm/typeorm/master/resources/logo_big.png" width="36" height="36" alt="Prisma" />
       </a>
       <br>TypeORM
     </td>
