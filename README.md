@@ -121,7 +121,7 @@ Fullstack Developer from Ukraine 🇺🇦
   </tr> 
 </table>
 
-> Frontend Development
+> Frontend
 
 <table width='100%'>
   <tr>
